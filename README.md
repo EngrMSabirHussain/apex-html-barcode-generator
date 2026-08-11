@@ -1,4 +1,4 @@
-# Oracle APEX Barcode Generator
+# Oracle APEX - Html Barcode Report
 
 A simple **Oracle APEX Barcode Generator** that creates Code 128 barcodes directly in the browser using **JsBarcode**, without calling an external barcode generation API.
 
