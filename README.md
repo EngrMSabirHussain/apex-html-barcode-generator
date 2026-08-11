@@ -347,15 +347,9 @@ this solution generates the barcode locally in the browser.
 
 ## 📷 Screenshot
 
-Add your report screenshot here:
+Example report screenshot here:
 
-```text
-screenshots/barcode-report.png
-```
-
-Example:
-
-![Oracle APEX Barcode Report](screenshots/barcode-report.png)
+<img width="387" height="197" alt="image" src="https://github.com/user-attachments/assets/3670a931-4435-40b6-9321-b368ca27bc15" />
 
 ## ⭐ Support
 
